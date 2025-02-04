@@ -5,3 +5,8 @@ Answer: Using Git helps to keep track of each version and manage changes in our 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Analyst: create visualizations and summarize data
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from one branch into another, while rebasing applies changes on top of the other branch.
+
