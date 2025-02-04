@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: Using Git helps to keep track of each version and manage changes in our work, especially when working as a team.
