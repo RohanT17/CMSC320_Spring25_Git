@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Using Git helps to keep track of each version and manage changes in our work, especially when working as a team.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Analyst: create visualizations and summarize data
